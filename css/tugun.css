@@ -1,0 +1,22 @@
+/*ÎÞ·ì¹öÍ¼´úÂë*/
+#andyscroll {
+	width:175px;
+	height:282px;
+	overflow:hidden;
+	word-break:break-all;
+	float: left;
+	overflow:hidden;
+}
+#andyscroll img{
+	display: block;
+}
+#scrollmessage a {
+	display: block;
+	height: 115px;
+	width: 154px;
+	border: 2px solid #588fa8;
+	margin-top: 10px;
+	margin-left: 6px;
+	padding-top: 7px;
+	padding-left: 6px;
+}
